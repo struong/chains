@@ -3,7 +3,11 @@
   "chain": "ETH",
   "rpc": ["https://rpc.testnet.tempo.xyz"],
   "faucets": [],
-  "nativeCurrency": {},
+  "nativeCurrency": {
+    "name": "No native currency",
+    "symbol": "NO_NATIVE_CURRENCY",
+    "decimals": 0
+  },
   "infoURL": "https://tempo.xyz",
   "shortName": "tempotest",
   "chainId": 42429,
