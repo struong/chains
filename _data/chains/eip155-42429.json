@@ -5,7 +5,7 @@
   "faucets": [],
   "nativeCurrency": {
     "name": "No native currency",
-    "symbol": "NO_NATIVE_CURRENCY",
+    "symbol": "No native currency",
     "decimals": 0
   },
   "infoURL": "https://tempo.xyz",
