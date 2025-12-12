@@ -1,0 +1,20 @@
+{
+  "name": "Tempo Testnet",
+  "chain": "ETH",
+  "rpc": ["https://rpc.testnet.tempo.xyz"],
+  "faucets": [],
+  "nativeCurrency": {},
+  "infoURL": "https://tempo.xyz",
+  "shortName": "tempotest",
+  "chainId": 42429,
+  "networkId": 42429,
+  "icon": "tempo",
+  "explorers": [
+    {
+      "name": "tempo-explorer",
+      "url": "https://explore.tempo.xyz",
+      "icon": "tempo",
+      "standard": "EIP3091"
+    }
+  ]
+}
